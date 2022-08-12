@@ -174,20 +174,35 @@ Memory memory[] PROGMEM = {
 // Short wave band presets //
 
 // SW1 - 1800Khz to 5060Khz //
-  2500,  "WWV NIST clock", "ALL", //
-  5000,  "WWV NIST clock", "ALL", //
+  2500,  "WWV NIST clock",	"ALL", //
+  5000,  "WWV NIST clock",	"ALL", //
  
 // SW2 -  5300Khz to 7598Khz //
+  5930, "World Music Radio",	"ALL", //
+  6950, "Alt Universe Top 40",	"ALL", //
+  6950, "Alt Universe Top 40",	"ALL", //
+  7305, "Vatican Radio",		"ALL", //
+  7360, "Vatican Radio",		"ALL", //
+  7470, "Radio Free Asia",		"ALL", //
+  7520, "Radio Free Asia",		"ALL", //
 
+  
 // SW3 - 9406Khz to 12159Khz //
-  10000, "WWV NIST clock", "ALL", //
+  9670, "Alt Universe Top 40",	"ALL", //
+  9595, "Vatican Radio",		"ALL", //
+  9930, "Radio Free Asia",		"ALL", //
+  10000, "WWV NIST clock",		"ALL", //
+  11655, "Voice of America",	"ALL", //
   
 // SW4 - 13576Khz to 18166Khz //
-  15000, "WWV NIST clock", "ALL", //
+  15000, "WWV NIST clock",	"ALL", //
+  15700, "World Music Radio",	"ALL", //
+  17775, "Voice of Hope",	"ALL", //
   
 // SW5 - 18904Khz to 26097Khz //
-  20000, "WWV NIST clock", "ALL", //
-  25000, "WWV NIST clock", "ALL", //
+  20000, "WWV NIST clock",	"ALL", //
+  25000, "WWV NIST clock",	"ALL", //
+  28000, "World Music Radio",	"ALL", //
   
 // VHF band presets 64.08Mhz to 86.99Mhz //
 
@@ -197,6 +212,3 @@ Memory memory[] PROGMEM = {
 //  
 };
 //======================================================= END Memory     ===================================
-//
-//
-//
