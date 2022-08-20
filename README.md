@@ -6,7 +6,10 @@ files and info on ATS-25
 
 
 
-ATS-25 sketch software fix for BINNS MOD 4.0 or 5.3a
+-------------------------------------------------
+
+
+ATS-25 sketch battery fix for BINNS MOD 4.0 or 5.3a
 
 Change line in sketch #define BAT_INFO 25 → #define BAT_INFO 35
 
