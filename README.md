@@ -9,6 +9,8 @@ files and info on ATS-25/ATS25/ATS25+
 
 Firmwares
 
+ZARDOZ_MOD - this is a modfided IU4ALH - Mod 5.2a to add some battery fixes and presets (use at own risk)
+
 pe0mgb / SI4735-Radio-ESP32-Touchscreen-Arduino
 
 https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino
