@@ -1,5 +1,5 @@
 # Si4732 ATS-25 All Band Radio Receiver
-files and info on ATS-25/ATS25/ATS25+
+files and info on the ATS-25/ATS25/ATS25+
 
 
 ![ats25](https://user-images.githubusercontent.com/44716085/185809159-f8e3d3a2-1067-4bdf-9d19-2dcd61e50f11.png)
