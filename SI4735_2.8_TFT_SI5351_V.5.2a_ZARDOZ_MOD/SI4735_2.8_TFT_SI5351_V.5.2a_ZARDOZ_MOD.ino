@@ -1,3 +1,4 @@
+//  V.5.2a ZARDOZ_MOD 20.08.2022  to add some battery fixes and presets
 //  V.5.2a  15.05.2022 Fully RDS services - RDS Station  name - RDS News & info - RDS Time station Mod.by IU4ALH ;
 //                     led colors on S-Meter bar
 
