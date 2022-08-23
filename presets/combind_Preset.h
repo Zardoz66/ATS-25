@@ -175,11 +175,14 @@ Memory memory[] PROGMEM = {
 
 // SW1 - 1800Khz to 5060Khz //
   2500,  "WWV NIST clock",	"ALL", //
+  4840,  "WWRC Nashville",	"ALL", //
   5000,  "WWV NIST clock",	"ALL", //
+  5025,  "R.REBELDE",   	"ALL", //
+  5040,  "R.HABANA CUBA",   "ALL", //
+  
  
 // SW2 -  5300Khz to 7598Khz //
   5930, "World Music Radio",	"ALL", //
-  6950, "Alt Universe Top 40",	"ALL", //
   6950, "Alt Universe Top 40",	"ALL", //
   7305, "Vatican Radio",		"ALL", //
   7360, "Vatican Radio",		"ALL", //
@@ -188,9 +191,14 @@ Memory memory[] PROGMEM = {
 
   
 // SW3 - 9406Khz to 12159Khz //
-  9670, "Alt Universe Top 40",	"ALL", //
+  9455, "WRMI",	            	"ALL", //
   9595, "Vatican Radio",		"ALL", //
+  9670, "Alt Universe Top 40",	"ALL", //
+  9770, "Voice of Turkey",	    "ALL", //
+  9790, "China Radio Int.",	    "ALL", //
+  9850, "R.ROMANIA INT.",		"ALL", //
   9930, "Radio Free Asia",		"ALL", //
+  9975, "Voice of Hope",		"ALL", //
   10000, "WWV NIST clock",		"ALL", //
   11655, "Voice of America",	"ALL", //
   
